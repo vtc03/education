@@ -8,10 +8,8 @@
 
 Provide a short and concise overview of the project. Mention the problem it solves, the data used, and the key outcomes or findings.
 
-- **Objective:**
-- To analyze how socioeconomic factors such as household income, unemployment, and family structure relate to average ACT scores across U.S. high schools.
-- **Domain:**
-- Education
+- **Objective:** To analyze how socioeconomic factors such as household income, unemployment, and family structure relate to average ACT scores across U.S. high schools.
+- **Domain:** Education
 - **Key Techniques:** (e.g., Regression, Classification, Clustering, NLP, Time Series)
 
 ---
@@ -30,9 +28,7 @@ Provide a short and concise overview of the project. Mention the problem it solv
 
 ## Data
 
-- **Source:**
-- https://github.com/brian-fischer/DATA-5100/blob/main/EdGap_data.xlsx
-- https://www.dropbox.com/scl/fi/fkafjk8902sq8ptxh94r2/ccd_sch_029_1617_w_1a_11212017.csv?rlkey=gucrdz5f6e38bezz2y3yalxbw&dl=0
+- **Source:** https://github.com/brian-fischer/DATA-5100/blob/main/EdGap_data.xlsx , https://www.dropbox.com/scl/fi/fkafjk8902sq8ptxh94r2/ccd_sch_029_1617_w_1a_11212017.csv?rlkey=gucrdz5f6e38bezz2y3yalxbw&dl=0
 - **Description:** Brief overview of the dataset features, size, and format
 - **License:** (if applicable)
 
