@@ -1,6 +1,6 @@
-# Project Title (This is a template README.md file that you can adapt to your project)
+# Socioeconomic Predictors of Average ACT Scores Across U.S. States
 
-> Examining how socioeconomic factors relate to average ACT scores across U.S. high schools.
+> Examining how socioeconomic factors relate to average ACT scores across U.S. States.
 
 ---
 
